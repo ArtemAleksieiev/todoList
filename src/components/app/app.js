@@ -16,7 +16,7 @@ export default class App extends Component {
     todoData: [
       {label: 'Drink Coffee', important:false, id: 1},
       {label: 'Make React App', important:true, id: 2},
-      {label: 'Have a hunch', important:false, id: 3}
+      {label: 'Have a lunch', important:false, id: 3}
     ],
     term: '',
     filter: 'all'
